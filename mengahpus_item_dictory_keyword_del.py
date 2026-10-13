@@ -1,5 +1,5 @@
 profile = {
-     "id": 2},
+    "id": 2},
 
 del profile["id"] 
 print(profile)
